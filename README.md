@@ -1,2 +1,2 @@
-Github repository containing each stage of our semester long OOP project.
+Github repository containing each stage of our semester long CS 2210 project.
 The members are Nick Snyder, Xavier Chency, and Tamara Galstian.
